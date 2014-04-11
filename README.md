@@ -16,5 +16,5 @@ The script consists of the following parts:
 * dito for training data set
 * rBinding test data set and training data set creates required tidy data set
 * writing tidy data set to disk
-* grouping of means is performed by using data.table functions and lapply
+* grouping of means is performed by using data.table functionality and lapply
 * sorting data set with grouped means is sorted by subject and activity and writing it to disk
